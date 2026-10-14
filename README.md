@@ -67,4 +67,4 @@ PCB
 ![](https://github.com/GolinskiyKonstantin/PCB/blob/main/picture/072.jpg)
 ![](https://github.com/GolinskiyKonstantin/PCB/blob/main/picture/073.jpg)
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
